@@ -28,5 +28,4 @@ function switchOnCharmFromTip (tip){
     }
 }
 
-switchOnCharmFromTip ('generous');
-switchOnCharmFromTip ('not as generous');
+
